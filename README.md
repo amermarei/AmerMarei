@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Amer Marei</h1>
-<h3 align="center"> Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/@amer_n_marei" target="blank"><img src="https://img.shields.io/twitter/follow/@Amer_N_Marei?logo=twitter&style=for-the-badge" alt="@amer_n_marei" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@amer_n_marei" target="blank"><img src="https://img.shields.io/twitter/follow/@amer_n_marei?logo=twitter&style=for-the-badge" alt="@amer_n_marei" /></a> </p>
 
 - 📫 How to reach me **amermarei444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@amer_n_marei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amer_n_marei" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amermarei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amermarei" height="30" width="40" /></a>
 <a href="https://fb.com/amer n.marei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amer n.marei" height="30" width="40" /></a>
 </p>
 
