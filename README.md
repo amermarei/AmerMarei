@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amer Marei</h1>
 <h3 align="center">Frontend Developer</h3>
-
+An Front-End Developer with experience in creating and developing web applications that provide quality user experience and obsessed with improving web apps and finding new challenges, also I love reading new things in the web industry and sharing knowledge with my team 
 <p align="left"> <a href="https://twitter.com/@amer_n_marei" target="blank"><img src="https://img.shields.io/twitter/follow/@amer_n_marei?logo=twitter&style=for-the-badge" alt="@amer_n_marei" /></a> </p>
 
 - 📫 How to reach me **amermarei444@gmail.com**
